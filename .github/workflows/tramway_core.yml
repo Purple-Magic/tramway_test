@@ -4,4 +4,4 @@ on: [push]
 
 jobs:
   build:
-    uses: purple-magic/tramway-core/.github/workflows/abstract_tests.yml@main
+    uses: purple-magic/tramway-core/.github/workflows/abstract_tests.yml@develop
