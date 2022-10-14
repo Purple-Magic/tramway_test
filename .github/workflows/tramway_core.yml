@@ -1,0 +1,7 @@
+name: Tramway Core
+
+on: [push]
+
+jobs:
+  build:
+    uses: purple-magic/tramway-core/.github/workflows/abstract_tests.yml@main
